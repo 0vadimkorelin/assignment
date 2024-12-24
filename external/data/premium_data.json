@@ -1,0 +1,352 @@
+[
+  {
+    "cin": "F8OY0O0W",
+    "name": "Young, Gomez and Thompson",
+    "registration_date": "2020-09-21",
+    "address": "5003 Ponce Vista, Port Jenniferborough, MT 45805",
+    "is_active": false
+  },
+  {
+    "cin": "CJQUNXGW",
+    "name": "Ramirez-Sanchez",
+    "registration_date": "2023-06-09",
+    "address": "416 Mcdonald Gardens Suite 018, Garciashire, ME 95742",
+    "is_active": true
+  },
+  {
+    "cin": "2875F20M",
+    "name": "Allen PLC",
+    "registration_date": "2021-11-12",
+    "address": "6092 Robert Cliffs, Wesleyfurt, FL 10178",
+    "is_active": true
+  },
+  {
+    "cin": "LDL93LOZ",
+    "name": "Bolton-Gutierrez",
+    "registration_date": "2023-03-21",
+    "address": "35376 Bowers Parkways Suite 903, New Jennifer, MT 98996",
+    "is_active": true
+  },
+  {
+    "cin": "OYLZ0IVB",
+    "name": "Reese Ltd",
+    "registration_date": "2022-09-12",
+    "address": "PSC 1647, Box 1298, APO AE 06328",
+    "is_active": true
+  },
+  {
+    "cin": "0ANW1LCD",
+    "name": "Duke-Fernandez",
+    "registration_date": "2022-11-22",
+    "address": "079 Karen Pines, West Parker, PA 89544",
+    "is_active": false
+  },
+  {
+    "cin": "GBOIO7SG",
+    "name": "Smith LLC",
+    "registration_date": "2021-07-20",
+    "address": "PSC 2047, Box 3321, APO AA 25240",
+    "is_active": true
+  },
+  {
+    "cin": "43XQBXF7",
+    "name": "Curry Inc",
+    "registration_date": "2021-09-02",
+    "address": "2619 Shane Pine Suite 440, Ryanshire, NM 30987",
+    "is_active": true
+  },
+  {
+    "cin": "FPJ83RW3",
+    "name": "Snow-Johnson",
+    "registration_date": "2021-10-09",
+    "address": "59495 Walker Freeway, West Melissa, OR 79864",
+    "is_active": true
+  },
+  {
+    "cin": "FI7RM46P",
+    "name": "Marquez Ltd",
+    "registration_date": "2022-06-30",
+    "address": "0479 Gerald Knolls Suite 837, North Michael, TN 85847",
+    "is_active": true
+  },
+  {
+    "cin": "Q436SGWY",
+    "name": "Gomez, Howard and Sanders",
+    "registration_date": "2023-08-19",
+    "address": "204 Reyes Pines, Rachelville, WI 86404",
+    "is_active": true
+  },
+  {
+    "cin": "CAB0LZYU",
+    "name": "Smith Inc",
+    "registration_date": "2024-03-12",
+    "address": "501 Munoz Camp Apt. 526, Hernandezhaven, KS 89961",
+    "is_active": true
+  },
+  {
+    "cin": "W40S5X4Y",
+    "name": "Bell LLC",
+    "registration_date": "2020-01-02",
+    "address": "948 Gibson Ridge, South Dale, ID 00868",
+    "is_active": false
+  },
+  {
+    "cin": "P8PVUCWT",
+    "name": "Mcconnell Group",
+    "registration_date": "2023-01-15",
+    "address": "465 Larry Walks, North Robertburgh, CT 90483",
+    "is_active": true
+  },
+  {
+    "cin": "H4NMZ4JX",
+    "name": "Ramirez-Ball",
+    "registration_date": "2020-06-29",
+    "address": "Unit 4266 Box 7958, DPO AE 27686",
+    "is_active": false
+  },
+  {
+    "cin": "QP1GQKB1",
+    "name": "Harris-Jones",
+    "registration_date": "2022-11-21",
+    "address": "54818 Allen Divide Apt. 760, Port Donnabury, TX 08056",
+    "is_active": true
+  },
+  {
+    "cin": "ZRC7ZKRV",
+    "name": "Wilson-Garcia",
+    "registration_date": "2022-05-22",
+    "address": "019 Johnny Flats Apt. 835, East Rebecca, RI 79225",
+    "is_active": true
+  },
+  {
+    "cin": "JP16R1H4",
+    "name": "Browning, Hall and Stewart",
+    "registration_date": "2024-04-21",
+    "address": "782 Jones Forks Apt. 304, Joshuaville, TN 33363",
+    "is_active": true
+  },
+  {
+    "cin": "4KMLLQ13",
+    "name": "Mckenzie Group",
+    "registration_date": "2021-07-05",
+    "address": "9608 Jacqueline Spurs, Port Davidmouth, WA 28616",
+    "is_active": false
+  },
+  {
+    "cin": "7TYR27C3",
+    "name": "Lee, Robinson and Moore",
+    "registration_date": "2021-01-20",
+    "address": "665 Rodney Glen Apt. 722, Davidsonburgh, ID 11213",
+    "is_active": false
+  },
+  {
+    "cin": "CU9ANNTV",
+    "name": "Taylor, Miller and Cooper",
+    "registration_date": "2021-09-05",
+    "address": "211 Jose Spurs, Port Lynn, IN 85181",
+    "is_active": true
+  },
+  {
+    "cin": "IH27VJIT",
+    "name": "Potts-Garcia",
+    "registration_date": "2023-07-01",
+    "address": "62970 Beasley Crossing Apt. 675, Dianashire, OH 01387",
+    "is_active": false
+  },
+  {
+    "cin": "6K5R3GJI",
+    "name": "Anderson Group",
+    "registration_date": "2020-03-11",
+    "address": "7930 Keith Ramp Suite 083, Manuelstad, WV 60635",
+    "is_active": true
+  },
+  {
+    "cin": "1Q7N5CUX",
+    "name": "Vaughn, Cortez and Ross",
+    "registration_date": "2021-04-30",
+    "address": "041 Jackson Courts, North John, ME 29490",
+    "is_active": true
+  },
+  {
+    "cin": "UVPZF82U",
+    "name": "Hunter-Osborn",
+    "registration_date": "2023-03-17",
+    "address": "21990 Peter Divide, North Davidchester, SD 88840",
+    "is_active": true
+  },
+  {
+    "cin": "UVC707NQ",
+    "name": "Garcia, Sanders and Johnson",
+    "registration_date": "2021-05-21",
+    "address": "67139 Lopez Trafficway, Shannonchester, SC 74451",
+    "is_active": false
+  },
+  {
+    "cin": "KRA62EI6",
+    "name": "Adams and Sons",
+    "registration_date": "2021-03-24",
+    "address": "5341 Bradley Islands Apt. 970, Garyburgh, WV 19880",
+    "is_active": false
+  },
+  {
+    "cin": "5DXLBALF",
+    "name": "Mitchell Ltd",
+    "registration_date": "2020-09-05",
+    "address": "PSC 1508, Box 0675, APO AP 36606",
+    "is_active": false
+  },
+  {
+    "cin": "ALDAYLG9",
+    "name": "Bryant Inc",
+    "registration_date": "2020-11-08",
+    "address": "21961 Lee Locks, Avilafurt, MA 86074",
+    "is_active": true
+  },
+  {
+    "cin": "KBG54XQX",
+    "name": "Hernandez-Lopez",
+    "registration_date": "2020-08-05",
+    "address": "4985 Myers Circle, Dawnbury, OR 30789",
+    "is_active": true
+  },
+  {
+    "cin": "8OSWHO3X",
+    "name": "Sims, Hensley and Lopez",
+    "registration_date": "2024-10-15",
+    "address": "5823 Padilla Ways Suite 786, West Alexander, UT 36226",
+    "is_active": false
+  },
+  {
+    "cin": "4A4U8MHS",
+    "name": "Dominguez, Harding and Chung",
+    "registration_date": "2024-03-08",
+    "address": "56724 Hart Wall, Mendezstad, AZ 75095",
+    "is_active": false
+  },
+  {
+    "cin": "NS1CSPMY",
+    "name": "Watson, Hanson and Smith",
+    "registration_date": "2020-10-25",
+    "address": "509 Torres Island Suite 923, Davidland, NY 61197",
+    "is_active": false
+  },
+  {
+    "cin": "I7V6SFGE",
+    "name": "Douglas LLC",
+    "registration_date": "2021-01-19",
+    "address": "56614 Mary Union Apt. 014, Pierceton, AR 19642",
+    "is_active": true
+  },
+  {
+    "cin": "E26NFIDL",
+    "name": "Baker and Sons",
+    "registration_date": "2020-03-04",
+    "address": "427 Oscar Grove Suite 035, Lake Johnfurt, PA 13069",
+    "is_active": false
+  },
+  {
+    "cin": "FI75L0O9",
+    "name": "Parker-Gentry",
+    "registration_date": "2021-01-11",
+    "address": "533 Nielsen Canyon, East Joseph, FL 80040",
+    "is_active": true
+  },
+  {
+    "cin": "D9A020RD",
+    "name": "Coleman LLC",
+    "registration_date": "2020-09-24",
+    "address": "59118 Tracy Estates Suite 495, West Christopher, CT 53164",
+    "is_active": false
+  },
+  {
+    "cin": "ECH91V3L",
+    "name": "Henderson-Erickson",
+    "registration_date": "2021-09-10",
+    "address": "60562 Henry Road, Port Sarahtown, ND 06407",
+    "is_active": false
+  },
+  {
+    "cin": "TEWFTLJ5",
+    "name": "Hanna-Zuniga",
+    "registration_date": "2020-08-13",
+    "address": "746 Parker Way Suite 148, East Blake, IA 80857",
+    "is_active": false
+  },
+  {
+    "cin": "XW3J7VBM",
+    "name": "Smith, Riley and Johnson",
+    "registration_date": "2023-11-02",
+    "address": "40882 Johnson Corner Apt. 632, Port Richard, GA 45113",
+    "is_active": true
+  },
+  {
+    "cin": "Q6KSPCQT",
+    "name": "Reyes, Nash and Gross",
+    "registration_date": "2021-07-22",
+    "address": "4788 Allen Ways, Jeffreyfort, WI 11208",
+    "is_active": true
+  },
+  {
+    "cin": "KXLJAI9Y",
+    "name": "Moore-Perez",
+    "registration_date": "2021-11-17",
+    "address": "19324 Green Fords, Pittsmouth, TN 19023",
+    "is_active": false
+  },
+  {
+    "cin": "9Q2T3L5C",
+    "name": "Park Inc",
+    "registration_date": "2022-09-23",
+    "address": "20024 Cooley Drive Suite 535, Zacharybury, WA 62704",
+    "is_active": false
+  },
+  {
+    "cin": "ATTR0FYX",
+    "name": "Martinez, Silva and Howe",
+    "registration_date": "2024-08-01",
+    "address": "9274 Kevin Tunnel, South Jonathan, IL 12080",
+    "is_active": true
+  },
+  {
+    "cin": "GZ98L2X1",
+    "name": "Moore LLC",
+    "registration_date": "2024-02-27",
+    "address": "38129 Peters Square Suite 310, South Meghanport, HI 95057",
+    "is_active": false
+  },
+  {
+    "cin": "Q7DXDY2C",
+    "name": "Martin PLC",
+    "registration_date": "2022-01-21",
+    "address": "38821 James Knolls Suite 559, Lake Lindamouth, MN 24212",
+    "is_active": false
+  },
+  {
+    "cin": "IY1F6P49",
+    "name": "Gibbs, Wilson and Santiago",
+    "registration_date": "2022-03-10",
+    "address": "989 Evelyn Terrace Apt. 791, Jamesfort, MN 44140",
+    "is_active": true
+  },
+  {
+    "cin": "W912FL9C",
+    "name": "Lewis-Oconnor",
+    "registration_date": "2020-10-28",
+    "address": "8922 Stephanie Junction, Lake James, CT 02153",
+    "is_active": false
+  },
+  {
+    "cin": "GDGW2C15",
+    "name": "Davenport, Williams and Gonzalez",
+    "registration_date": "2020-01-31",
+    "address": "5529 Garcia Extensions Apt. 566, Monicaport, VT 19463",
+    "is_active": true
+  },
+  {
+    "cin": "1CPLBO5J",
+    "name": "Palmer-Ramos",
+    "registration_date": "2024-05-16",
+    "address": "44961 Lisa Cliffs, Mccallchester, IL 74349",
+    "is_active": false
+  }
+]
